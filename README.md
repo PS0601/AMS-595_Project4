@@ -1,36 +1,23 @@
+#  AMS 595 – Python Project 2  
+### *Fractal Approximation, Markov Chains, and Taylor Series*
 
+This project implements three independent computational tasks using Python — each illustrating a different mathematical concept:
 
-#  AMS 595 Project 4 — Mandelbrot Set Visualization
+1. **Task 1 – Mandelbrot Set:** Iterative fractal visualization  
+2. **Task 2 – Markov Chain:** Convergence to stationary distribution  
+3. **Task 3 – Taylor Series Approximation:** Symbolic and numerical function expansion  
 
-This project generates and visualizes the **Mandelbrot Set**, a famous fractal defined in the complex plane.  
-It is implemented entirely in **Python** using **NumPy** and **Matplotlib**, and produces a grayscale image showing the set’s intricate boundary structure.
-
----
-
-##  Project Overview
-
-- **Course:** AMS 595 — Fundamentals of Computing  
-- **Topic:** Complex numbers and fractal visualization  
-- **Goal:** Generate the Mandelbrot set for the region `[-2, 1] x [-1.5, 1.5]`  
-- **Output:** Saved image file `mandelbrot.png` showing the Mandelbrot fractal  
+All code was written as part of the **AMS 595: Fundamentals of Computing** course at **Stony Brook University**.
 
 ---
 
-##  Files Included
+### Requirements
+Ensure Python ≥ 3.8 is installed.  
+Then, install the required packages:
 
-| File | Description |
-|------|--------------|
-| `mandelbrot.py` | Main script that generates and saves the Mandelbrot fractal image |
-| `mandelbrot.png` | Generated image (output file) |
-| `requirements.txt` *(optional)* | Contains the required libraries (`numpy`, `matplotlib`) |
+### Run the file
+python mandelbrot.py
+python markov_chain.py
+python taylor.py
 
----
 
-##  Installation
-
-Make sure you have **Python 3.8+** installed.
-
-1. Clone or download this repository:
-   ```bash
-   git clone https://github.com/your-username/ams595-project4-mandelbrot.git
-   cd ams595-project4-mandelbrot
