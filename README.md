@@ -16,8 +16,8 @@ Ensure Python ≥ 3.8 is installed.
 Then, install the required packages:
 
 ### Run the file
-python mandelbrot.py
-python markov_chain.py
-python taylor.py
+python mandelbrot.py.
+python markov_chain.py.
+python taylor.py.
 
 
