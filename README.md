@@ -15,9 +15,10 @@ All code was written as part of the **AMS 595: Fundamentals of Computing** cours
 Ensure Python ≥ 3.8 is installed.  
 Then, install the required packages:
 
-### Run the file
-**python mandelbrot.py
-**python markov_chain.py
-**python taylor.py
+### 🚀 Run the Files
+- **python mandelbrot.py**
+- **python markov_chain.py**
+- **python taylor.py**
+
 
 
