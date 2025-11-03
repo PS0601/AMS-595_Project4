@@ -1,4 +1,4 @@
-#  AMS 595 – Python Project 2  
+#  AMS 595 – Python Project 4 
 ### *Fractal Approximation, Markov Chains, and Taylor Series*
 
 This project implements three independent computational tasks using Python — each illustrating a different mathematical concept:
@@ -15,7 +15,7 @@ All code was written as part of the **AMS 595: Fundamentals of Computing** cours
 Ensure Python ≥ 3.8 is installed.  
 Then, install the required packages:
 
-### 🚀 Run the Files
+###  Run the Files
 - **python mandelbrot.py**
 - **python markov_chain.py**
 - **python taylor.py**
